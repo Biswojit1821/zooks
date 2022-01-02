@@ -1,0 +1,29 @@
+#title{
+  background-color: #ff4c68;
+}
+
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 2rem;
+  font-weight: bold;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+.nav-item{
+  padding: 30px;
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-family: 'Montserrat-light', sans-serif;
+
+}
+.dog-profile{
+  transform: rotate(25deg);
+}
+#features{
+  align-content: center;
+}
